@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">netInfomation</string>
+    <string name="login_id">账号</string>
+    <string name="login_password">密码</string>
+</resources>
